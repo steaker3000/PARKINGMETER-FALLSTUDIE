@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://localhost\:9000
+projectKey=ch.zhaw.pm.console.frontend\:parking-meter-console-frontend-iteration1
+serverUrl=http\://localhost\:9000
+version=2

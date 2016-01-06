@@ -1,0 +1,1 @@
+java -jar ./target/parking-meter-frontend/parking-meter-frontend.jar
